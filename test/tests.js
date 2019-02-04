@@ -1,6 +1,5 @@
-const test = QUnit.test;    
+const test = QUnit.test;
 
-test('string', function(assert) {
-    assert.equal(result, expected);
+test('time to write a test', function(assert) {
+    assert.equal(true, false);
 });
-
